@@ -1,1 +1,1 @@
-# 연습, useState, useEffect(fetch) 영화웹만들기
+#  useState, useEffect 연습 영화정보불러오기
