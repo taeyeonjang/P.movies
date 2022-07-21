@@ -1,11 +1,1 @@
-github 특정 폴더만 가져오기
-
-git config core.sparsecheckout true
-
-git remote add -f origin 경로
-
-echo 학생/* > .git/info/sparse-checkout
-
-학생/* (경로)
-
-git pull origin main
+수정
